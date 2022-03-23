@@ -10,4 +10,4 @@ HTML
 CSS
 JavaScript
 
-Before I learn the course 'React: Front to Back' of 'Brad Traversy' in Udemy.
+Preparation before I learn the course 'React: Front to Back' of 'Brad Traversy' in Udemy.
