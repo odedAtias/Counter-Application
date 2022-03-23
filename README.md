@@ -1,13 +1,13 @@
 Application of counter by pressing a button
 
-== Project Description ==
-There are three buttons, add, download, reset. With each click the counter will be updated as required.
+== Project Description == 
 
-The aim of the project is to practice the languages: html, css and javascript Before we start studying react.js
-and carry out a community contribution project as part of our studies.
+There are three buttons, increase, decrease, reset. With each click the counter will be updated as required and will change colors according to the value of the counter.
 
+The aim of the project is to practice the following front-end languages:
 
-== Files ==
-index.html
-style.css
-app.js
+HTML
+CSS
+JavaScript
+
+Before I learn the course 'React: Front to Back' of 'Brad Traversy' in Udemy.
