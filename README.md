@@ -6,8 +6,8 @@ There are three buttons, increase, decrease, reset. With each click the counter 
 
 The aim of the project is to practice the following front-end languages:
 
-HTML
-CSS
-JavaScript
+1) HTML
+2) CSS
+3) JavaScript
 
 Preparation before I learn the course 'React: Front to Back' of 'Brad Traversy' in Udemy.
