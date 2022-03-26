@@ -1,6 +1,6 @@
 Application of counter by pressing a button
 
-== Project Description == 
+#Project Description
 
 There are three buttons, increase, decrease, reset. With each click the counter will be updated as required and will change colors according to the value of the counter.
 
