@@ -1,4 +1,4 @@
-# About this application
+# Counter application
 
 Application of counter by pressing a button
 
