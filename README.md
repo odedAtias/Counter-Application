@@ -2,14 +2,26 @@
 
 Application of counter by pressing a button
 
-There are three buttons, increase, decrease, reset. With each click the counter will be updated as required and will change colors according to the value of the counter.
+There are three buttons, increase, decrease and reset. Each time you press one of the buttons, the counter changes its value, and the color of the meter will change depending on the following cases:
 
-## The purpose of this project
+🔴 When the counter is a negative number
 
-practice the following front-end languages:
+🟢 When the counter is a positive number
 
-1) HTML
-2) CSS
-3) JavaScript
+⚫ When the counter is equal to 0. 
+
+## Technologies
+👉 HTML
+
+👉 CSS
+
+👉 JavaScript
  
-before I learn the course 'React: Front to Back' of 'Brad Traversy' in Udemy.
+## for any questions
+
+```
+if(haveAnyQuestions === true){
+    let yourName = ".......", question = ".......";
+    sendEmailToMe(yourName,question,odedatias8115@gmail.com);
+}
+```
