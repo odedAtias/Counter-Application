@@ -20,8 +20,17 @@ body {
     font-size: 60px;
     margin-bottom: 30px;
 }
-
 /* Heading Style */
+header{
+    text-align: center;
+    font-size: 20px;
+    background-color: #fffcfc;
+    border: 3px solid;
+    padding: 35px;
+    
+}
+
+/* Main Style */
 main{
     border: solid 3px;
     border-radius: 15px;
@@ -53,6 +62,7 @@ main{
 /* Fotter Style */
 footer {
     text-align: center;
+    font-size: 20px;
     background-color: #fffcfc;
     border: 3px solid;
     border-radius: 15px;
